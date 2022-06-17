@@ -1,0 +1,14 @@
+[
+  {
+    "package": "biotools",
+    "oncran": true
+  },
+  {
+    "package": "hyperbrick",
+    "oncran": true
+  },
+  {
+    "package": "soilphysics",
+    "oncran": true
+  }
+]

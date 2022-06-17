@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "biotools"]
+	path = biotools
+	url = https://github.com/arsilva87/biotools
+	shallow = true
+	registered = true
+[submodule "hyperbrick"]
+	path = hyperbrick
+	url = https://github.com/arsilva87/hyperbrick
+	shallow = true
+	registered = true
+[submodule "soilphysics"]
+	path = soilphysics
+	url = https://github.com/arsilva87/soilphysics
+	shallow = true
+	registered = true
